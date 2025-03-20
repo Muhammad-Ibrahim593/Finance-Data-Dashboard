@@ -1,4 +1,4 @@
-# Finance-Data-Dashboard
+# Finance-Data-Dashboard Power BI Sample
 💸 I will walk you through building a very simple yet effective Personal Finance Dashboard using some realistic data. So if you want to manage expenses, manage income, or just get a better insight of your financial fitness this video is for you. 📊
 ## Data Set Used
 - <a href= "https://github.com/Muhammad-Ibrahim593/Finance-Data-Dashboard/blob/main/Account.csv">Dataset<a/>
